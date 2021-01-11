@@ -1,0 +1,422 @@
+Abdominal obesity
+Abdominal pain
+Acne
+Actinic keratosis
+Acute bronchitis
+Adrenal crisis
+Ageusia
+Alcoholism
+Allergic conjunctivitis
+Allergy
+Amblyopia
+Amenorrhea
+Amnesia
+Anal fissure
+Anaphylaxis
+Anemia
+Angina pectoris
+Angioedema
+Angular cheilitis
+Anosmia
+Anxiety
+Aphasia
+Aphonia
+Apnea
+Arthralgia
+Arthritis
+Ascites
+Asperger syndrome
+Asphyxia
+Asthma
+Astigmatism
+Ataxia
+Atheroma
+Attention deficit hyperactivity disorder
+Auditory hallucination
+Autoimmune disease
+Avoidant personality disorder
+Back pain
+Bacterial vaginosis
+Balance disorder
+Beau's lines
+Bell's palsy
+Biliary colic
+Binge eating
+Bleeding
+Bleeding on probing
+Blepharospasm
+Bloating
+Blood in stool
+Blurred vision
+Blushing
+Boil
+Bone fracture
+Bone tumor
+Bowel obstruction
+Bradycardia
+Braxton Hicks contractions
+Breakthrough bleeding
+Breast pain
+Bronchitis
+Bruise
+Bruxism
+Bunion
+Burn
+Burning Chest Pain
+Burning mouth syndrome
+Candidiasis
+Canker sore
+Cardiac arrest
+Carpal tunnel syndrome
+Cataplexy
+Cataract
+Chancre
+Cheilitis
+Chest pain
+Chills
+Chorea
+Chronic pain
+Cirrhosis
+Cleft lip and cleft palate
+Clouding of consciousness
+Cluster headache
+Colitis
+Coma
+Common cold
+Compulsive behavior
+Compulsive hoarding
+Confusion
+Congenital heart defect
+Conjunctivitis
+Constipation
+Convulsion
+Cough
+Crackles
+Cramp
+Crepitus
+Croup
+Cyanosis
+Dandruff
+Delayed onset muscle soreness
+Dementia
+Dentin hypersensitivity
+Depersonalization
+Depression
+Dermatitis
+Desquamation
+Developmental disability
+Diabetes
+Diabetic ketoacidosis
+Diarrhoea
+Dizziness
+Dry eye syndrome
+Dysautonomia
+Dysgeusia
+Dysmenorrhea
+Dyspareunia
+Dysphagia
+Dysphoria
+Dystonia
+Dysuria
+Ear pain
+Eczema
+Edema
+Encephalitis
+Encephalopathy
+Epidermoid cyst
+Epilepsy
+Epiphora
+Erectile dysfunction
+Erythema
+Erythema chronicum migrans
+Esophagitis
+Excessive daytime sleepiness
+Eye pain
+Eye strain
+Facial nerve paralysis
+Facial swelling
+Fasciculation
+Fatigue
+Fatty liver disease
+Fecal incontinence
+Fever
+Fibrillation
+Fibrocystic breast changes
+Fibromyalgia
+Flatulence
+Floater
+Focal seizure
+Folate deficiency
+Food craving
+Food intolerance
+Frequent urination
+Gastroesophageal reflux disease
+Gastroparesis
+Generalized anxiety disorder
+Generalized tonic–clonic seizure
+Genital wart
+Gingival recession
+Gingivitis
+Globus pharyngis
+Goitre
+Gout
+Grandiosity
+Granuloma
+Guilt
+Hair loss
+Halitosis
+Hay fever
+Headache
+Heart arrhythmia
+Heart murmur
+Heartburn
+Hematochezia
+Hematoma
+Hematuria
+Hemolysis
+Hemoptysis
+Hemorrhoids
+Hepatic encephalopathy
+Hepatitis
+Hepatotoxicity
+Hiccup
+Hip pain
+Hives
+Hot flash
+Hydrocephalus
+Hypercalcaemia
+Hypercapnia
+Hypercholesterolemia
+Hyperemesis gravidarum
+Hyperglycemia
+Hyperkalemia
+Hyperlipidemia
+Hypermobility
+Hyperpigmentation
+Hypersomnia
+Hypertension
+Hyperthermia
+Hyperthyroidism
+Hypertriglyceridemia
+Hypertrophy
+Hyperventilation
+Hypocalcaemia
+Hypochondriasis
+Hypoglycemia
+Hypogonadism
+Hypokalemia
+Hypomania
+Hyponatremia
+Hypotension
+Hypothyroidism
+Hypoxemia
+Hypoxia
+Impetigo
+Implantation bleeding
+Impulsivity
+Indigestion
+Infection
+Inflammation
+Inflammatory bowel disease
+Ingrown hair
+Insomnia
+Insulin resistance
+Intermenstrual bleeding
+Intracranial pressure
+Iron deficiency
+Irregular menstruation
+Itch
+Jaundice
+Kidney failure
+Kidney stone
+Knee Pain
+Kyphosis
+Lactose intolerance
+Laryngitis
+Leg cramps
+Lesion
+Leukorrhea
+Lightheadedness
+Low back pain
+Low-grade fever
+Loss of taste or smell
+Major depressive disorder
+Malabsorption
+Male infertility
+Manic Disorder
+Melasma
+Melena
+Meningitis
+Menorrhagia
+Middle back pain
+Migraine
+Milium
+Mitral insufficiency
+Mood disorder
+Mood swing
+Morning sickness
+Motion sickness
+Mouth ulcer
+Muscle atrophy
+Muscle weakness
+Myalgia
+Mydriasis
+Myocardial infarction
+Myoclonus
+Nasal congestion
+Nasal polyp
+Nausea
+Neck mass
+Neck pain
+Neonatal jaundice
+Nerve injury
+Neuralgia
+Neutropenia
+Night sweats
+Night terror
+Nocturnal enuresis
+Nodule
+Nosebleed
+Nystagmus
+Obesity
+Onychorrhexis
+Oral candidiasis
+Orthostatic hypotension
+Osteopenia
+Osteophyte
+Osteoporosis
+Otitis
+Otitis externa
+Otitis media
+Pain
+Palpitations
+Panic attack
+Papule
+Paranoia
+Paresthesia
+Pelvic inflammatory disease
+Pericarditis
+Periodontal disease
+Periorbital puffiness
+Peripheral neuropathy
+Perspiration
+Petechia
+Phlegm
+Photodermatitis
+Photophobia
+Photopsia
+Pleural effusion
+Pleurisy
+Pneumonia
+Podalgia
+Polycythemia
+Polydipsia
+Polyneuropathy
+Polyuria
+Poor posture
+Post-nasal drip
+Postural orthostatic tachycardia syndrome
+Prediabetes
+Proteinuria
+Pruritus ani
+Psychosis
+Ptosis
+Pulmonary edema
+Pulmonary hypertension
+Purpura
+Pus
+Pyelonephritis
+Radiculopathy
+Rash on skin
+Rectal pain
+Rectal prolapse
+Red eye
+Renal colic
+Restless legs syndrome
+Rheum
+Rhinitis
+Rhinorrhea
+Rosacea
+Round ligament pain
+Rumination
+Scar
+Sciatica
+Scoliosis
+Seborrheic dermatitis
+Self-harm
+Sensitivity to sound
+Sexual dysfunction
+Shallow breathing
+Sharp pain
+Shivering
+Shortness of breath
+Shyness
+Sinusitis
+Skin condition
+Skin tag
+Skin ulcer
+Sleep apnea
+Sleep deprivation
+Sleep disorder
+Snoring
+Sore throat
+Spasticity
+Splenomegaly
+Sputum
+Stomach rumble
+Strabismus
+Stretch marks
+Stridor
+Stroke
+Stuttering
+Subdural hematoma
+Suicidal ideation
+Swelling
+Swollen feet
+Swollen lymph nodes
+Syncope
+Tachycardia
+Tachypnea
+Telangiectasia
+Tenderness
+Testicular pain
+Tiredness
+Thrombocytopenia
+Thyroid nodule
+Tic
+Tinnitus
+Tonsillitis
+Toothache
+Tremor
+Trichoptilosis
+Tumor
+Type 2 diabetes
+Unconsciousness
+Underweight
+Upper respiratory tract infection
+Urethritis
+Urinary incontinence
+Urinary tract infection
+Urinary urgency
+Uterine contraction
+Vaginal bleeding
+Vaginal discharge
+Vaginitis
+Varicose veins
+Vasculitis
+Ventricular fibrillation
+Ventricular tachycardia
+Vertigo
+Viral pneumonia
+Visual acuity
+Vomiting
+Wart
+Water retention
+Weakness
+Weight gain
+Wheeze
+Xeroderma
+Xerostomia
+Yawn
+hyperhidrosis
+pancreatitis
